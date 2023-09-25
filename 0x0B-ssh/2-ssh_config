@@ -1,0 +1,7 @@
+# SSH Config File
+#
+Host *
+	Hostnam 524843d0b8a5
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
