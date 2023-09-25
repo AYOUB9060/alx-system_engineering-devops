@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use ssh with the private key and user specified
+ssh -i ~/.ssh/school ubuntu@s123erver.com
